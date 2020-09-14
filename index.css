@@ -1,0 +1,14 @@
+body{
+    background color : grey;
+    font-family: Roboto slab;
+}
+.image {
+    background-image:url (https://www.blacktreeinvestments.com/make-money-investing-real-estate/);
+}
+h1{
+    color: red;
+}
+h4{
+    color: blue;
+    align-content: center;2
+}
